@@ -1,0 +1,1 @@
+int selectedBottomNavigationIndex = 0;
