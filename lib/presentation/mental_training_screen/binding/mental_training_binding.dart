@@ -4,6 +4,6 @@ import 'package:get/get.dart';
 class MentalTrainingBinding extends Bindings {
   @override
   void dependencies() {
-    Get.put(() => MentalTrainingController());
+    Get.put(MentalTrainingController());
   }
 }
